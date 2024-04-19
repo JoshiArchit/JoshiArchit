@@ -1,4 +1,5 @@
 ## :wave: Hi, you've reached Archit.
+![veiwed](https://komarev.com/ghpvc/?username=JoshiArchit)
 <p align='left'>
 I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
 I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.
@@ -24,6 +25,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on reading literature and building models to understand Machine Learning.
 <br>🌱 I’m currently learning React, Graph Databases and TypeScript.<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=html,css,shell,prolog&theme=radical"> -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
 
 
