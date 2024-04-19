@@ -1,6 +1,9 @@
 ## :wave: Hi, you've reached Archit.
-I'm a Computer Science student at Rochester Institute of Technology. <br>Currently working on figuring out how this AI thing works and why is Data so Big.<br>
+<p align='left'>
+I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
 I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.
+<a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
+</p>
 
 <!--
 **JoshiArchit/JoshiArchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +25,7 @@ Here are some ideas to get you started:
 <br>🌱 I’m currently learning React, Graph Databases and TypeScript.<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
+
 
 ## Currently listening to
 ![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
