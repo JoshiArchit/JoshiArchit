@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ## Stats for Nerds
 🔭 I’m currently working on reading literature and building models to understand Machine Learning.
 <br>🌱 I’m currently learning React, Graph Databases and TypeScript.<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
-<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=html,css,shell,prolog&theme=radical"> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=shell&theme=radical&hide_progress=True">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
 
 
