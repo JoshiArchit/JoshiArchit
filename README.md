@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Stats for Nerds
 🔭 I’m currently working on reading literature and building models to understand Machine Learning.
-<br>🌱 I’m currently learning React, Graph Databases and TypeScript.
+<br>🌱 I’m currently learning React, Graph Databases and TypeScript.<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark&mode=weekly)](https://git.io/streak-stats)
 
