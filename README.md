@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
 
+## Currently listening to
+![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
 
 ## Find me on
 <p align="left">
