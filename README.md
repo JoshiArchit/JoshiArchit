@@ -2,7 +2,7 @@
 ![veiwed](https://komarev.com/ghpvc/?username=JoshiArchit)
 <p align='left'>
 I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
-I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.
+I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.<br>
 <a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
 </p>
 
