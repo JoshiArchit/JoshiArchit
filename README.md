@@ -1,4 +1,6 @@
-### Hi there 👋
+## :wave: Hi, you've reached Archit.
+I'm a Computer Science student at Rochester Institute of Technology. <br>Currently working on figuring out how this AI thing works and why is Data so Big.<br>
+I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.
 
 <!--
 **JoshiArchit/JoshiArchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=dark)](https://git.io/streak-stats)
+## Stats for Nerds
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark&mode=weekly)](https://git.io/streak-stats)
+
+🔭 I’m currently working on reading literature and building models to understand Machine Learning.
+<br>🌱 I’m currently learning React, Graph Databases and TypeScript.
+
+## Find me on
