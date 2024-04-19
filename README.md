@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 <br>🌱 I’m currently learning React, Graph Databases and TypeScript.
 
 ## Find me on
+<p align="left">
+<a href="http://linkedin.com/in/archit2904" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://instagram.com/artiekins2904" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+</p>
