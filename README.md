@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="http://linkedin.com/in/archit2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="http://instagram.com/artiekins2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/instagram.png" alt="" height="30" /></a>
-<a href="https://steamcommunity.com/id/archiekins2904/" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/instagram.png" alt="" height="30" /></a>
+<a href="https://steamcommunity.com/id/archiekins2904/" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/steam.png" alt="" height="30" /></a>
 </p>
