@@ -1,5 +1,4 @@
 ## :wave: Hi, you've reached Archit.
-![veiwed](https://komarev.com/ghpvc/?username=JoshiArchit)
 <p align='left'>
 I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
 I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.<br>
