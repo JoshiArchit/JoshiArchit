@@ -6,6 +6,11 @@ I love good conversations, so reach out and lets exchange thoughts from technolo
 <a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
 </p>
 
+<!--## Some of my work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project) -->
+
 <!--
 **JoshiArchit/JoshiArchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
