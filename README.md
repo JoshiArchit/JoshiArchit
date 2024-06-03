@@ -2,6 +2,7 @@
 <p align='left'>
 I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
 I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.<br>
+In my free time you can find me building stuff as thats the way I learn or playing Stardew Valley to decompress and wind down!<br>
 <a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
 </p>
 
@@ -29,7 +30,8 @@ Here are some ideas to get you started:
 
 ## Stats for Nerds
 🔭 I’m currently working on reading literature and building models to understand Machine Learning.
-<br>🌱 I’m currently learning React, Graph Databases and TypeScript.<br><br>
+<br>🌱 I’m currently learning React, Graph Databases and TypeScript.
+<br>⚡Currently building a potential Opensource Mod for Stardew Valley (and maybe a small game?) by learning C#.<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=shell&theme=radical&hide_progress=True">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
