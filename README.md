@@ -1,6 +1,6 @@
 ## :wave: Hi, you've reached Archit.
 
-He cannot come to GitHub right now. Please connect and leave a message at -  <a href="http://linkedin.com/in/archit2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/transparent-Linkedin-logo-icon.png" alt="LinkedIn" height="20" /></a>&nbsp;&nbsp;
+He cannot come to GitHub right now. A bit sad init. Please connect and leave a message at -  <a href="http://linkedin.com/in/archit2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/transparent-Linkedin-logo-icon.png" alt="LinkedIn" height="20" /></a>&nbsp;&nbsp;
 <a href="http://instagram.com/artiekins2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/instagram.png" alt="Instagram" height="20" /></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/archiekins2904/" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/Steam.png" alt="Steam" height="20" /></a>
 
