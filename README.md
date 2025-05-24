@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=shell&theme=radical&hide_progress=True">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
 
-
-## Currently listening to
-![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ntq0zz4666lvogfd2bgentgct&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
-
 ## Find me on
 <p align="left">
 <a href="http://linkedin.com/in/archit2904" target="blank"><img align="center" src="https://github.com/JoshiArchit/JoshiArchit/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
