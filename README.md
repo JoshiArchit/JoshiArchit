@@ -6,41 +6,16 @@ He cannot come to GitHub right now. A bit sad init. Please connect and leave a m
 
 <hr>
 <p align='left'>
-I'm a Computer Science student at Rochester Institute of Technology. Currently working on figuring out how this AI thing works and why is Data so Big.
-I love good conversations, so reach out and lets exchange thoughts from technology to conquering the world to comic books.<br>
-In my free time you can find me building stuff as thats the way I learn or playing Stardew Valley to decompress and wind down!<br>
+Full Stack developer with some Machine Learning garnishing on the top. Constantly looking for things to build and learn.<br><br>
 <a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/archiekins2904)
 
-<!--## Some of my work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoshiArchit&repo=NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project&theme=github_dark)](https://github.com/JoshiArchit/NYC-Vehicle-Collision-Data-Analysis-CSCI720-Project) -->
-
-<!--
-**JoshiArchit/JoshiArchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Stats for Nerds
-🔭 I’m currently working on reading literature and building models to understand Machine Learning.
-<br>🌱 I’m currently learning React, Graph Databases and TypeScript.
-<br>⚡Currently building a potential Opensource Mod for Stardew Valley (and maybe a small game?) by learning C#.<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshiArchit&theme=dark&hide=contribs,prs)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiArchit&hide=shell&theme=radical&hide_progress=True">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoshiArchit&theme=neon-dark)](https://git.io/streak-stats)
+🔭 I’m currently working on developing cross platform apps using Tauri and some backend frameworks like FastAPI/SpringBoot.
+<br>🌱 Trying to grow my knowledge base right now by learning Swift because I got my first Macbook as a graduation present.
+<br>⚡I learned C# thanks to my internship, now onto building those mods for Stardew Valley. If you know how to/or just play Stardew Valley, lets connect on Steam!<br><br>
 
 ## Find me on
 <p align="left">
