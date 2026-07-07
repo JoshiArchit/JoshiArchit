@@ -6,11 +6,12 @@ He cannot come to GitHub right now. A bit sad init. Please connect and leave a m
 
 <hr>
 <p align='left'>
-Full Stack developer with some Machine Learning garnishing on the top. Constantly looking for things to build and learn.<br><br>
-<a href="https://app.daily.dev/archiekins2904"><img src="https://api.daily.dev/devcards/v2/vd8VB2A2yAnTBXnbY1DfR.png?r=sq9&type=wide" width="652" alt="Archit Joshi's Dev Card"/></a>
-</p>
+Full Stack developer with some Machine Learning seasoning on the top. Constantly looking for things to build and learn.<br><br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/archiekins2904)
+Currently working on - 
+1. [Pomodoro app for Apple ecosystem](https://github.com/JoshiArchit/Pomodoro-Timer)
+2. [Learning React from this excellent course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+</p>
 
 ## Stats for Nerds
 🔭 I’m currently working on developing cross platform apps using Tauri and some backend frameworks like FastAPI/SpringBoot.
