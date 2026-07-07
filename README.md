@@ -11,9 +11,10 @@ Full Stack developer with some Machine Learning seasoning on the top. Constantly
 Currently working on - 
 1. [Pomodoro app for Apple ecosystem](https://github.com/JoshiArchit/Pomodoro-Timer)
 2. [Learning React from this excellent course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+3. [Blurbot - A little agent which can update your "Currently working on" for your portfolio website](https://github.com/JoshiArchit/blurbot)
 </p>
 
-## Stats for Nerds
+## About me
 🔭 I’m currently working on developing cross platform apps using Tauri and some backend frameworks like FastAPI/SpringBoot.
 <br>🌱 Trying to grow my knowledge base right now by learning Swift because I got my first Macbook as a graduation present.
 <br>⚡I learned C# thanks to my internship, now onto building those mods for Stardew Valley. If you know how to/or just play Stardew Valley, lets connect on Steam!<br><br>
