@@ -13,8 +13,8 @@ Full-stack developer with some machine learning seasoning on top...
 2. [Learning React from this excellent course](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 
 ## Some utilities that might be useful for you
-1. [Blurbot — a little agent that keeps the "Currently working on" section of your portfolio site up to date](https://github.com/JoshiArchit/blurbot)
-2. [Resyncme - a nifty configurable workflow that fetches your resume from Overleaf and replaces it on your portfolio so you dont have to after every small edit](https://github.com/JoshiArchit/resyncme)
+1. [Blurbot](https://github.com/JoshiArchit/blurbot) — a little agent that keeps the "Currently working on" section of your portfolio site up to date
+2. [Resyncme](https://github.com/JoshiArchit/resyncme) - a nifty configurable workflow that fetches your resume from Overleaf and replaces it on your portfolio so you dont have to after every small edit
 
 
 ## About me
